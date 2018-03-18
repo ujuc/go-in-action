@@ -1,7 +1,7 @@
 package search
 
 import (
-    "log"
+	"log"
 	"sync"
 )
 
